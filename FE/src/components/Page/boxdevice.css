@@ -1,0 +1,27 @@
+
+    .shape {
+      width: 20px;
+      height: 20px;
+      display: inline-block;
+      margin-right: 10px;
+    }
+
+    .circle {
+      background-color: red;
+      border-radius: 50%;
+    }
+
+    .triangle {
+      width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-bottom: 17.3px solid red;
+    }
+
+    .red-background {
+      background-color: red;
+    }
+    .black-background {
+      background-color: thistle;
+    }
